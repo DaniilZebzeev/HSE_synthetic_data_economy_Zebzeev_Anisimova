@@ -1,3 +1,6 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/DaniilZebzeev/HSE_synthetic_data_economy/blob/main/synthetic-data-economy.ipynb)
+
 # 📊 Synthetic Data Economy — Python Simulation
 
 This repository contains a fully reproducible Python-based simulation of a **synthetic economic dataset**.  
@@ -93,7 +96,7 @@ git clone https://github.com/DaniilZebzeev/HSE_synthetic_data_economy.git
 2. Open the notebook:
 
 ```
-synthetic_economy.ipynb
+synthetic-data-economy.ipynb
 ```
 
 3. Run all cells — the notebook is fully reproducible.
